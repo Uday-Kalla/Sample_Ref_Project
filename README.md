@@ -1,2 +1,2 @@
 # Sample_Ref_Project
-This repository as the link of other projects and sample design data
+> This repository as the link's of sample DevOps projects. Practice them in the future
